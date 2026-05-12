@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there 👋, I'm Quang Linh (Quang Linh Dev)
 
-<!--
-**QuangLinh1013/QuangLinh1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Backend & High-Load Systems Enthusiast**
 
-Here are some ideas to get you started:
+Tôi là một lập trình viên đam mê xây dựng các hệ thống phần mềm hiệu suất cao, có khả năng mở rộng tốt và kiến trúc mã nguồn sạch. Tôi luôn hướng tới việc áp dụng các chuẩn mực kỹ thuật khắt khe (như **Hexagonal Architecture**, **Microservices**) và tự động hóa quy trình (CI/CD, Docker) để mang lại những sản phẩm chất lượng, ổn định.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Tools
+
+- **Languages:** TypeScript, JavaScript, Node.js
+- **Frontend:** React, HTML/CSS
+- **Backend & Architecture:** Express.js, NestJS, Hexagonal Architecture (Ports & Adapters)
+- **Database & Caching:** MySQL (Sequelize), Redis (Distributed Lock & Caching)
+- **Message Broker:** RabbitMQ
+- **Real-time:** Socket.io
+- **DevOps & Cloud:** Docker, Docker Compose, GitHub Actions (CI/CD), AWS (EC2), Linux
+
+---
+
+### 🚀 Featured Projects
+
+#### 🍔 [LinhFood - High-Load Order System](https://github.com/QuangLinh1013/food-order-backend) *(Fullstack)*
+Hệ thống quản lý đặt đồ ăn chịu tải cao, giải quyết bài toán đồng thời (Concurrency) và thời gian thực.
+- **Backend:** Thiết kế theo chuẩn Hexagonal Architecture. Ứng dụng **Redis Distributed Lock** để chống lỗi Overselling (bán lố hàng) và **RabbitMQ** để xử lý bất đồng bộ các tác vụ nặng (Background Worker). Đóng gói toàn bộ bằng **Docker**.
+- **Frontend:** Giao diện người dùng mượt mà, tích hợp **Socket.io** để tracking trạng thái đơn hàng realtime.
+
+#### 💬 [Aura - Social Networking UI](https://github.com/QuangLinh1013/my-Aura-frontend) *(Frontend)*
+Giao diện mạng xã hội hiện đại, thiết kế tinh gọn và tối ưu trải nghiệm người dùng (UX/UI) sử dụng **TypeScript**.
+
+#### 🎬 [My Movie Project](https://github.com/QuangLinh1013/my-movie-project) *(Fullstack)*
+Hệ thống web xem phim trực tuyến (Frontend & Backend) sử dụng JavaScript, cung cấp luồng phát video và quản lý nội dung phim.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=QuangLinh1013&show_icons=true&theme=radium&hide_border=true" alt="QuangLinh1013's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mysql,redis,rabbitmq,docker,aws,linux,react,githubactions" alt="Quang Linh Tech Stack" />
+</p>
+
+---
+📫 **How to reach me:** *(Thêm link LinkedIn hoặc Email của bạn vào đây nhé)*
