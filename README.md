@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Quang Linh (Quang Linh Dev)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Quang+Linh;Software+Engineer+%7C+Backend+Enthusiast" alt="Typing SVG" />
+</a>
 
 **Software Engineer | Backend & High-Load Systems Enthusiast**
 
@@ -34,14 +36,9 @@ Hệ thống web xem phim trực tuyến (Frontend & Backend) sử dụng JavaSc
 ---
 
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuangLinh1013&show_icons=true&theme=radium&hide_border=true" alt="QuangLinh1013's GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mysql,redis,rabbitmq,docker,aws,linux,react,githubactions" alt="Quang Linh Tech Stack" />
 </p>
 
 ---
-📫 **How to reach me:** *(Thêm link LinkedIn hoặc Email của bạn vào đây nhé)*
+📫 **How to reach me:** *www.linkedin.com/in/quanglinh106*
