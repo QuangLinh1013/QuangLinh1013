@@ -1,9 +1,9 @@
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
+   <source media="(prefers-color-scheme: dark)" srcset="images/header-dark.png">
    <img alt="Logo for Hey! I am Quang Linh" src="art/header-light.png">
 </picture>
   <p align="center">
-  <img src="banner (1).svg" alt="GitHub Banner" width="100%">
+  <img src="images/banner (1).svg" alt="GitHub Banner" width="100%">
 </p>
 
 Tôi là một lập trình viên đam mê xây dựng các hệ thống phần mềm hiệu suất cao, có khả năng mở rộng tốt và kiến trúc mã nguồn sạch. Tôi luôn hướng tới việc áp dụng các chuẩn mực kỹ thuật khắt khe (như **Hexagonal Architecture**, **Microservices**) và tự động hóa quy trình (CI/CD, Docker) để mang lại những sản phẩm chất lượng, ổn định.
@@ -37,10 +37,10 @@ Hệ thống web xem phim trực tuyến (Frontend & Backend) sử dụng JavaSc
 
 ---
 
-### 📈 GitHub Stats
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mysql,redis,rabbitmq,docker,aws,linux,react,githubactions" alt="Quang Linh Tech Stack" />
 </p>
 
 ---
-📫 **How to reach me:** *www.linkedin.com/in/quanglinh106*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quanglinh106)
