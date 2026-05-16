@@ -1,8 +1,10 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Quang+Linh;Software+Engineer+%7C+Backend+Enthusiast" alt="Typing SVG" />
-</a>
-
-**Software Engineer | Backend & High-Load Systems Enthusiast**
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
+   <img alt="Logo for Hey! I am Quang Linh" src="art/header-light.png">
+</picture>
+  <p align="center">
+  <img src="banner (1).svg" alt="GitHub Banner" width="100%">
+</p>
 
 Tôi là một lập trình viên đam mê xây dựng các hệ thống phần mềm hiệu suất cao, có khả năng mở rộng tốt và kiến trúc mã nguồn sạch. Tôi luôn hướng tới việc áp dụng các chuẩn mực kỹ thuật khắt khe (như **Hexagonal Architecture**, **Microservices**) và tự động hóa quy trình (CI/CD, Docker) để mang lại những sản phẩm chất lượng, ổn định.
 
